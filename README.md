@@ -1,1 +1,1 @@
-# Taller-IluminandoElFuturo-CUVO
+# Taller ICC Iluminando el futuro - CUVO
