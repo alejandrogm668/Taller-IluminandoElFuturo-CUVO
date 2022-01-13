@@ -8,6 +8,8 @@ Los participantes se familiarizarán con las nociones básicas de la computació
 
 Registrarse en [IBM Quantum](https://quantum-computing.ibm.com/)
 
+[Link](https://www.youtube.com/playlist?list=PLsTyjqsJXJ88oF-oqBV__0Pm1hwwn9Sj3) a las grabaciones
+
 ### [Día 1](D%C3%ADa%201)
 * Bits
 * Qubits 
